@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Main
 
 Hello! I’m Sunil Kumar Yadav, a software engineer with 3+ years of experience building scalable backend systems, full-stack applications, and AI-powered solutions. This repository contains my personal portfolio website, designed to showcase my work, experience, technical skills, and personality in a modern and interactive way.
@@ -99,3 +100,7 @@ If you’d like to connect, collaborate, or discuss opportunities, feel free to 
 ## License
 
 This project is open for personal and educational use. Please respect the original work and attribution.
+=======
+# portfolio-main
+my portfolio 
+>>>>>>> 1a09f2b6ba4926f773da256dbbff6085a3d707a4
