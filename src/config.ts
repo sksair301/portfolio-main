@@ -1,7 +1,7 @@
 export const config = {
     developer: {
-        name: "Sunilkumar",
-        fullName: "Sunilkumar Yadav",
+        name: "Sabir",
+        fullName: "Sabir Shaikh",
         title: "Software Engineer (Senior Backend Developer / AI ML / DevOps)",
         description: "Software Engineer with 3+ years of experience in backend development using PHP (Laravel) and Python (FastAPI, Flask). Experienced in system design, microservices architecture, DevOps practices, and AI-based solutions."
     },
@@ -73,13 +73,13 @@ export const config = {
         }
     ],
     contact: {
-        email: "yadavsunilkumar998@gmail.com",
+        email: "sksair301gmail.com",
         github: "https://github.com/Sunil-Yadav-1912",
         linkedin: "https://www.linkedin.com/in/sunilkumar-yadav-2k4/",
-        twitter: "https://x.com/Sunil_Y_1912",
-        facebook: "",
-        instagram: "https://www.instagram.com/sunil_yadav_1912?igsh=anAzbmF1ajE5dWdn",
-        discord: "https://discord.com/users/1202501567027216387"
+        // twitter: "https://x.com/Sunil_Y_1912",
+        // facebook: "",
+        // instagram: "https://www.instagram.com/sunil_yadav_1912?igsh=anAzbmF1ajE5dWdn",
+        // discord: "https://discord.com/users/1202501567027216387"
     },
     skills: {
         develop: {

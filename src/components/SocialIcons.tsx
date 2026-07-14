@@ -71,21 +71,21 @@ const SocialIcons = () => {
             <FaLinkedinIn />
           </a>
         </span>
-        <span>
+        {/* <span>
           <a href={config.contact.twitter} target="_blank" rel="noopener noreferrer">
             <FaXTwitter />
           </a>
-        </span>
+        </span> */}
         <span>
           <a href={config.contact.instagram} target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </a>
         </span>
-        <span>
+        {/* <span>
           <a href={(config.contact as any).discord} target="_blank" rel="noopener noreferrer">
             <FaDiscord />
           </a>
-        </span>
+        </span> */}
       </div>
       <a className="resume-button" href="/file/Sunilkumar Yadav Resume.pdf" target="_blank" rel="noopener noreferrer">
         <HoverLinks text="RESUME" />
