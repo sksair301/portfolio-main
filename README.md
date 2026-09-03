@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built to showcase my backend development skills, projects, and professional experience. The design features a custom "Navy Horizon" theme (deep navy canvas with electric blue accents) and smooth reveal animations.
 
+**🌍 Live Demo:** [https://shaikh-sabir-portfolio.onrender.com](https://shaikh-sabir-portfolio.onrender.com)
+
 ## ✨ Features
 
 - **Modern Tech Stack**: Built with React, TypeScript, and Vite.
